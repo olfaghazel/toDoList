@@ -1,0 +1,25 @@
+ .App{
+  text-align: center;
+}
+/********************Add****************/
+.add{
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+}
+
+/******************Itel***************/
+
+.item{
+  width: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+}
+ .button{
+  margin: 20px;
+  min-width: 90px;
+ }
